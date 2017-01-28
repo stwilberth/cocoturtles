@@ -194,7 +194,7 @@
 
 	#header {
 		position: relative;
-		background: #d64760 url("images/overlay.png");
+		background: #d64760;
 		color: #fff;
 		cursor: default;
 	}
@@ -289,7 +289,7 @@
 				#header:before {
 					content: '';
 					display: inline-block;
-					height: 100%;
+					height: 20%;
 					vertical-align: middle;
 				}
 
